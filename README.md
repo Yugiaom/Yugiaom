@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yugiaom
-- 👀 I’m interested in smart contract, data structure and algorithms and coding.
+- 👀 I’m interested in smart contract, data structure, algorithms and coding.
 - 🌱 I’m currently learning Python and Smart contract 
 - 📫 How to reach me >> Yugiaom.j@gmail.com
 
